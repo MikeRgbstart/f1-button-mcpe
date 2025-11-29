@@ -6,7 +6,9 @@
   
   **The ultimate HUD hider and Cinematic tool for Minecraft Bedrock/Pocket Edition.**
 
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmsrofficial%2Ff1-button-mcpe&count_bg=%234C1CC9&title_bg=%23555555&icon=minecraft.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false" alt="Visitor Count"/>
+<a href="https://github.com/msrofficial">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=msrofficial.f1-button-mcpe" alt="Visitor Count" />
+</a>
 
   <br>
 
@@ -23,7 +25,7 @@ Welcome to the **F1 Button v2** repository! This resource pack brings the Java E
 Perfect for content creators, photographers, and players who want a clean, immersive experience.
 
 ## ✨ Features
-* **👆 Perfect Placement:** The F1 button is located at the **Top-Right Corner** of the screen, making it super easy to reach with your thumb while playing.
+* **Perfect Placement:** The F1 button is located at the **Top-Right Corner** of the screen, making it super easy to reach with your thumb while playing.
 * **Hide HUD:** Removes hearts, hunger bar, and XP bar.
 * **Invisible Controls:** Hides the D-pad, jump button, and inventory buttons.
 * **Cinematic Mode:** Removes the hand/item from the screen.
@@ -36,7 +38,6 @@ Perfect for content creators, photographers, and players who want a clean, immer
 
 ### ⚙️ Menu View
 ![Menu View](image/banner.jpg)
-*(Easy toggle in settings)*
 
 ### 🆚 Comparison (Before vs After)
 
@@ -82,6 +83,3 @@ This pack is designed for **Minecraft Bedrock Edition (MCPE)** and supports:
 * Do not re-upload to other sites without permission.
 
 ---
-<div align="center">
-  <i>Made with ❤️ for the Minecraft Community</i>
-</div>
